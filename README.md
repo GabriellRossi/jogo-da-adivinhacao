@@ -33,7 +33,7 @@ O Jogo Da Adivinhação é um projeto para você se divertir tentando descobrir 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/VAzHlgQk4YrPRuy6cUhcqh/Jogo-Adivinha%C3%A7%C3%A3o-(Copy)>)/duplicate. É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/VAzHlgQk4YrPRuy6cUhcqh/Jogo-Adivinha%C3%A7%C3%A3o-(Copy)>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
